@@ -1,0 +1,2 @@
+[console_scripts]
+Serial = pi_controller.python_serial_teensy:main

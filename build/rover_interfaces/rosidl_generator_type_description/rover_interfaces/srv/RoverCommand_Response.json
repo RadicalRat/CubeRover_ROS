@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "rover_interfaces/srv/RoverCommand_Response",
+      "fields": [
+        {
+          "name": "success",
+          "type": {
+            "type_id": 15,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "rover_interfaces/srv/RoverCommand_Response",
+      "hash_string": "RIHS01_4c9b9f3864a6ec038ad7cc44d3a74bc64891a068c7e567772b4c9666c48dd8d0"
+    }
+  ]
+}

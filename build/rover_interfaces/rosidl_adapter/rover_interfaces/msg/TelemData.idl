@@ -1,0 +1,56 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from rover_interfaces/msg/TelemData.msg
+// generated code does not contain a copyright notice
+
+
+module rover_interfaces {
+  module msg {
+    struct TelemData {
+      float enc1;
+
+      float enc2;
+
+      float enc3;
+
+      float enc4;
+
+      float vel1;
+
+      float vel2;
+
+      float vel3;
+
+      float vel4;
+
+      float m1current;
+
+      float m2current;
+
+      float m3current;
+
+      float m4current;
+
+      float heading_x;
+
+      float heading_y;
+
+      float heading_z;
+
+      float heading_pos;
+
+      float heading_vel;
+
+      float accel_x;
+
+      float accel_y;
+
+      float accel_z;
+
+      float ang_accel_x;
+
+      float ang_accel_y;
+
+      float ang_accel_z;
+    };
+  };
+};

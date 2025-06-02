@@ -1,0 +1,25 @@
+[1.768s] Invoking command in '/home/cam/projects/CubeRover/src/pi_controller': PYTHONPATH=/home/cam/projects/CubeRover/build/pi_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cam/projects/CubeRover/install/pi_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pi_controller build --build-base /home/cam/projects/CubeRover/build/pi_controller/build install --record /home/cam/projects/CubeRover/build/pi_controller/install.log --single-version-externally-managed install_data
+[2.058s] running egg_info
+[2.077s] writing ../../build/pi_controller/Serial.egg-info/PKG-INFO
+[2.077s] writing dependency_links to ../../build/pi_controller/Serial.egg-info/dependency_links.txt
+[2.078s] writing entry points to ../../build/pi_controller/Serial.egg-info/entry_points.txt
+[2.078s] writing requirements to ../../build/pi_controller/Serial.egg-info/requires.txt
+[2.078s] writing top-level names to ../../build/pi_controller/Serial.egg-info/top_level.txt
+[2.122s] reading manifest file '../../build/pi_controller/Serial.egg-info/SOURCES.txt'
+[2.124s] adding license file 'LICENSE'
+[2.125s] writing manifest file '../../build/pi_controller/Serial.egg-info/SOURCES.txt'
+[2.125s] running build
+[2.125s] running build_py
+[2.125s] copying pi_controller/python_serial_teensy.py -> /home/cam/projects/CubeRover/build/pi_controller/build/lib/pi_controller
+[2.126s] running install
+[2.132s] running install_lib
+[2.151s] copying /home/cam/projects/CubeRover/build/pi_controller/build/lib/pi_controller/python_serial_teensy.py -> /home/cam/projects/CubeRover/install/pi_controller/lib/python3.12/site-packages/pi_controller
+[2.152s] byte-compiling /home/cam/projects/CubeRover/install/pi_controller/lib/python3.12/site-packages/pi_controller/python_serial_teensy.py to python_serial_teensy.cpython-312.pyc
+[2.153s] running install_data
+[2.153s] running install_egg_info
+[2.175s] removing '/home/cam/projects/CubeRover/install/pi_controller/lib/python3.12/site-packages/Serial-0.0.1-py3.12.egg-info' (and everything under it)
+[2.175s] Copying ../../build/pi_controller/Serial.egg-info to /home/cam/projects/CubeRover/install/pi_controller/lib/python3.12/site-packages/Serial-0.0.1-py3.12.egg-info
+[2.177s] running install_scripts
+[2.310s] Installing Serial script to /home/cam/projects/CubeRover/install/pi_controller/lib/pi_controller
+[2.310s] writing list of installed files to '/home/cam/projects/CubeRover/build/pi_controller/install.log'
+[2.332s] Invoked command in '/home/cam/projects/CubeRover/src/pi_controller' returned '0': PYTHONPATH=/home/cam/projects/CubeRover/build/pi_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cam/projects/CubeRover/install/pi_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pi_controller build --build-base /home/cam/projects/CubeRover/build/pi_controller/build install --record /home/cam/projects/CubeRover/build/pi_controller/install.log --single-version-externally-managed install_data

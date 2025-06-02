@@ -1,0 +1,26 @@
+/home/cam/projects/CubeRover/venv/lib/python3.12/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+running egg_info
+writing ../../build/pi_controller/Serial.egg-info/PKG-INFO
+writing dependency_links to ../../build/pi_controller/Serial.egg-info/dependency_links.txt
+writing entry points to ../../build/pi_controller/Serial.egg-info/entry_points.txt
+writing requirements to ../../build/pi_controller/Serial.egg-info/requires.txt
+writing top-level names to ../../build/pi_controller/Serial.egg-info/top_level.txt
+reading manifest file '../../build/pi_controller/Serial.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/pi_controller/Serial.egg-info/SOURCES.txt'
+running build
+running build_py
+copying pi_controller/__init__.py -> /home/cam/projects/CubeRover/build/pi_controller/build/lib/pi_controller
+copying pi_controller/python_serial_teensy.py -> /home/cam/projects/CubeRover/build/pi_controller/build/lib/pi_controller
+running install
+running install_lib
+running install_data
+copying resource/pi_controller -> /home/cam/projects/CubeRover/install/pi_controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/cam/projects/CubeRover/install/pi_controller/share/pi_controller
+running install_egg_info
+removing '/home/cam/projects/CubeRover/install/pi_controller/lib/python3.12/site-packages/Serial-0.0.1-py3.12.egg-info' (and everything under it)
+Copying ../../build/pi_controller/Serial.egg-info to /home/cam/projects/CubeRover/install/pi_controller/lib/python3.12/site-packages/Serial-0.0.1-py3.12.egg-info
+running install_scripts
+Installing Serial script to /home/cam/projects/CubeRover/install/pi_controller/bin
+writing list of installed files to '/home/cam/projects/CubeRover/build/pi_controller/install.log'
