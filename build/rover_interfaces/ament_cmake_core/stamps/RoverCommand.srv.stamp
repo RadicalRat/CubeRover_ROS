@@ -1,5 +1,0 @@
-string type
-float32[] data
-
----
-bool success

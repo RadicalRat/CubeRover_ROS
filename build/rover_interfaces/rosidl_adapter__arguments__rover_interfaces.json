@@ -1,7 +1,0 @@
-{
-  "package_name": "rover_interfaces",
-  "non_idl_tuples": [
-    "/home/cam/projects/CubeRover/src/rover_interfaces:msg/TelemData.msg",
-    "/home/cam/projects/CubeRover/src/rover_interfaces:srv/RoverCommand.srv"
-  ]
-}

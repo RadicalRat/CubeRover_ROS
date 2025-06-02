@@ -1,4 +1,0 @@
-Invoking command in '/home/cam/projects/CubeRover/build/rover_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/cam/projects/CubeRover/build/rover_interfaces -- -j16 -l16
-Invoked command in '/home/cam/projects/CubeRover/build/rover_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/cam/projects/CubeRover/build/rover_interfaces -- -j16 -l16
-Invoking command in '/home/cam/projects/CubeRover/build/rover_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/cam/projects/CubeRover/build/rover_interfaces
-Invoked command in '/home/cam/projects/CubeRover/build/rover_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/cam/projects/CubeRover/build/rover_interfaces
